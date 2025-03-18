@@ -10,11 +10,9 @@ We hope to systematize this better onboarding process as we write this book.
 
 ## Part 1 - Building blocks
 
-* ZDP
-* Recurring use knowledge
-* AI assisted learning
+* [Building blocks](./building-blocks.md)
 
-## Part 2 - Measuring success
+<!-- ## Part 2 - Measuring success
 
 * The challenges of measuring education
 * Customer satisfaction
@@ -30,5 +28,5 @@ The steps to get to a successful onboarding process looks different depending on
 * 35 Engineers
 * 150 Engineers
 * 500 Engineers
-* 1500+ Engineers
+* 1500+ Engineers -->
 
