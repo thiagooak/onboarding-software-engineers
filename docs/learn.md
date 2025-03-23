@@ -1,4 +1,4 @@
-# Building blocks
+# Learn the basics of Learning Design
 
 ## Holistic Learning Experiences
 
@@ -51,7 +51,7 @@
 * directive feedback (how)
 * epistemic feedback (why)
 
-novice learners benefit more when feedback is directive. 
+novice learners benefit more when feedback is directive.
 advanced learners benefit more when feedback is epistemic.
 
 ## Worked examples
