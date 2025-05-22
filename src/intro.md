@@ -7,9 +7,3 @@ We are writing this book because we have seen multiple employee onboarding progr
 There must be a better, more data-driven, and science-informed way to onboard software engineers.
 
 We hope to systematize this better onboarding process as we write this book.
-
-1. [Define goals](./define.md)
-2. [Learn the basics of Learning Design](./learn.md)
-3. [Run experiments](./experiment.md)
-4. [Scale](./scale.md)
-5. [Improve](./improve.md)
