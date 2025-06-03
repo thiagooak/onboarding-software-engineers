@@ -4,7 +4,7 @@
 <!-- [Acknowledgements](./ack.md) -->
 
 <!-- # Heading -->
-- [Define]() <!-- ./define.md -->
+- [Define](./define.md)
 - [Learn](./learn.md)
 - [Experiment]() <!-- ./experiment.md -->
 - [Scale]() <!-- ./scale.md -->
