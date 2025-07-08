@@ -1,4 +1,9 @@
-# Onboarding as a product
+# Onboarding is a product
+
+A product delivers value by solving problems.
+
+Onboarding delivers value to new hires by giving them a clear path to go from outsider to insider.
+It delivers value to the team by preparing the new hire to contribute while minimizing negative impact.
 
 *Treat engineering onboarding like a product, use metrics, user research, and iteration to improve.*
 

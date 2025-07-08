@@ -4,7 +4,7 @@
 <!-- [Acknowledgements]() -->
 
 # I. Product Thinking
-- [Product](./product.md)
+- [Onboarding is a product](./product.md)
 
 # II. Learning Design
 - [Design](./design.md)
